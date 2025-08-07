@@ -4,6 +4,7 @@ def main():
     extra_cheese = input("do you want extra cheese? Y or N: ")
     pepperoni = input("do you want pepperoni? Y or N:")
 
+# this is comments for better readibility
     bill = 0
 
     if size == "S":
